@@ -1,4 +1,6 @@
 cd <naziv_direktorijuma>
 git init 
 git add *
-
+git remote add origin <url_repozitorijuma>
+git commit -m "moj prvi commit"
+git push -u origin master
