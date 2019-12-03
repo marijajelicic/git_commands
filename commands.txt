@@ -1,0 +1,4 @@
+cd <naziv_direktorijuma>
+git init 
+git add *
+
